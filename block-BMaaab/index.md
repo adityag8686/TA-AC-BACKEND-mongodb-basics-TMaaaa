@@ -1,4 +1,4 @@
-writeCode
+dbwriteCode
 
 Run these shell commands in mongo shell:
 
