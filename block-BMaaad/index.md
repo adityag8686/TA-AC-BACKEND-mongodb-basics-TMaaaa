@@ -12,3 +12,4 @@ Write code to:-
 - create a simple collection named `humidity`
 - check whether `temperature` collection is capped or not ?
 - Delete `humidity` collection and then the entire database(weather).
+completed in cmd
